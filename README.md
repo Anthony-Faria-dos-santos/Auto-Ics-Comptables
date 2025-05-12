@@ -4,7 +4,7 @@ Automatisation comptable avec Notion et n8n
 
 ## **Présentation**
 
-Ce projet vise à simplifier le suivi des échéances financières tout en offrant une visibilité claire sur les flux financiers à venir, le tout piloté par une interface utilisateur sans code et alimenté par les données comptables déjà existantes dans Notion.
+Ce projet vise à simplifier le suivi des échéances financières tout en offrant une visibilité claire sur les flux financiers à venir, le tout piloté par une interface utilisateur et alimenté par les données comptables déjà existantes dans Notion.
 
 ---
 
