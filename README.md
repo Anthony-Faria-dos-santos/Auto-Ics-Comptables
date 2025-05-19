@@ -1,4 +1,4 @@
-## **🛠️ Projet :  Auto ICS Comptables** 
+## **🛠️ Projet :  Auto ICS Comptables** [En cours de réalisation Client]
 
 Automatisation comptable avec Notion et n8n
 
